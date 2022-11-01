@@ -1,0 +1,24 @@
+.calculator{
+    background-color: black;
+    margin: 150px auto;
+    height: 300px;
+    width: 400px;
+    padding: 50px
+}
+
+input{
+    height: 35px;
+    width: 78px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#display{
+    width: 235px;
+
+}
+
+.clear-equal{
+    background-color: brown;
+}
